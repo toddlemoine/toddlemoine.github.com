@@ -1,0 +1,114 @@
+
+TODD LEMOINE
+todd.lemoine@gmail.coma / @toddlemoine / 407.409.8802
+
+A front-end developer grounded in user experience looking to build empowering 
+web applications that embody quality and craftsmanship.
+
+=============================================================================
+EXPERIENCE
+=============================================================================
+
+SOFTWARE DEVELOPER
+July 2012 to Present
+Webtrends, Inc. in Portland, OR
+http://webtrends.com
+
+I contribute to a team of UI developers, building client-side applications and 
+interative visualizations that help Webtrends' customers understand and act on 
+their data. These applications must be scalable to thousands of users in different 
+locales. I helped create an internal Javascript framework for rapidly interating 
+during development through modular design patterns. 
+
+Highlight: Lead front-end dev on from prototype to shipping product of Webtrends' 
+next-generation ad-hoc analysis tool, Explore.
+
+----
+
+MEDIA SPECIALIST
+April 2005 to June 2012
+Sanofi Pasteur VaxDesign Campus in Orlando, Florida
+http://vaxdesign.com
+
+I designed and built lovely, modular internal web apps for researchers using
+Backbone, jQuery, HTML5/CSS3, and RESTful web services in ASP.NET and C#. I 
+also created charts and graphics for presentations, proposals, and reports, taking 
+raw data and ideas and attempting to turn them into something meaningful. I also 
+designed and managed vaxdesign.com.
+
+----
+
+ENGLISH INSTRUCTOR
+September 2003 to March 2005 
+NOVA in Tokyo, Japan
+
+I taught several 45-minute English sessions a day to all walks of Tokyoites, 
+from 5 year-olds to Hiroshima survivors, each with different levels of fluency 
+from almost none to nearly native.
+
+----
+
+VISUAL DESIGNER & WEB DEVELOPER
+June 2001 to December 2002
+Critical Content, LLC in Oklahoma City, Oklahoma
+
+Critical Content was an attempt to start a web design shop in Oklahoma City 
+focused on building usable sites for its clients. We were dedicated to the 
+idea that usability was a first-class consideration for any level of website. 
+Together with a partner, I helped small businesses launch online presences, 
+take baby steps into social media (although we didn't recognize it at the 
+time), and build brand identity. 
+
+Highlight was creating branding and website for U21, an Oklahoma state 
+initiative to stop underage drinking.
+
+----
+
+INFORMATION ARCHITECT
+May 2000 to June 2001
+XOR Inc in Tulsa, Oklahoma
+
+I helped clients determine their specific audiences for websites and those 
+audiences' needs from the clients' sites, then design an information outline, 
+structure, or flow for the sites.
+
+----
+
+WEBMASTER
+1997-2000
+Oklahoma State University Graduate College in Stillwater, Oklahoma
+
+Designed and maintained the OSU Grad College website. Using Lotus Notes, 
+developed and implemented one of the few fully online graduate application 
+forms in the United States.
+
+=============================================================================
+TECHNICAL THINGS WITH WHICH I'M COMFORTABLE
+=============================================================================
+Server: 	Rails, Apache, Linux
+Web: 		Backbone, React, jQuery, D3, REST, HTML, CSS/SASS, Wireframing
+Languages: 	Javascript, Ruby, C#, PHP, Regular Expressions
+Apps: 		Adobe Illustrator CS3, Adobe Photoshop CS3
+Process: 	Chef, RunDeck, Jenkins
+
+=============================================================================
+TECHNICAL THINGS WITH WHICH I'M FAMILIAR
+=============================================================================
+Server:     IIS, Windows, Amazon EC2
+Web: 	    Sencha Touch, Adobe Flex, ASP.NET, WCF, Drupal, 
+            SQL Server, MySQL
+APIs:       Twitter, Flickr, PayPal IPN
+Languages:  Actionscript
+Apps:	    Motion, Final Cut Pro 
+
+
+=============================================================================
+EDUCATION
+=============================================================================
+Master's in Technical Writing
+Oklahoma State University, 1997-2000 
+
+Bachelor's in English
+Oklahoma State University, 1992-1996 
+
+
