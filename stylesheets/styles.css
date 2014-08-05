@@ -1,10 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-
 body {
-  padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  /* padding:50px; */
+  font: 16.5pt/1.5 sans-serif;
+  color: #414141;
   font-weight:300;
+  margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -21,7 +20,12 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size: 3.5rem;
+  /* font-family: Menlo; */
+  /* text-transform: uppercase; */
+  /* background: saddlebrown; */
+  /* padding: .5rem 1rem; */
+  letter-spacing: -.05rem;
 }
 
 h2 {
@@ -46,8 +50,10 @@ a small {
 }
 
 .wrapper {
-  width:860px;
-  margin:0 auto;
+  width: 700px;
+  /* margin:0 auto; */
+  border-left: 50px solid blue;
+  padding: 4rem;
 }
 
 blockquote {
@@ -96,9 +102,9 @@ img {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
+  /* width:270px; */
+  /* float:left; */
+  /* position:fixed; */
 }
 
 header ul {
@@ -160,8 +166,8 @@ header ul a strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  /* width:500px; */
+  /* float:right; */
   padding-bottom:50px;
 }
 
