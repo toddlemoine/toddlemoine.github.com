@@ -1,7 +1,7 @@
-Title:			Résumé  of Todd Lemoine  
-Author:			Todd Lemoine  
+Title:			Résumé  of Todd Lemoine
+Author:			Todd Lemoine
 Date:           2014 August 10
-		   
+
 # Todd Lemoine #
 [toddlemoine.net][tl] / [todd.lemoine@gmail.com][email] / [@toddlemoine][twitter] / 407.409.8802
 
@@ -15,19 +15,19 @@ SOFTWARE DEVELOPER
 ----------------
 July 2012 to Present for [Webtrends, Inc][webtrends] (Portland, Oregon)
 
-I contribute to a team of UI developers, building client-side applications and interactive visualizations that help Webtrends' customers understand and act on their data. These applications are scalable to thousands of users in different locales. I helped create an internal Javascript framework for rapidly interating development using modular design patterns.
+I contribute to a team of UI developers that work closely with UX to build client-side applications and interactive visualizations that help Webtrends'customers understand and act on their business data. I helped create an internal Javascript framework based on Backbone.js for rapidly interating development using modular design patterns, building apps scalable to thousands of users in different locales.
 
-Notable: Lead front-end dev from prototype to shipping product of Webtrends'next-generation ad-hoc analysis tool, Explore.
+Recently, spearheading the next iteration of this framework, using React to take the framework's best ideas and more fully realize them, giving us more testable and maintainable components that also allow for high -velocity app prototyping.
+
+Notable: Lead front-end dev from prototype to shipping product of Webtrends'next-generation ad-hoc analysis tool, Explore; experience with streaming data to produce data visualizations.
 
 MEDIA SPECIALIST
 ----------------
 April 2005 to Present for [Sanofi Pasteur VaxDesign Campus][vaxdesign] (Orlando, Florida)
 
-I designed and built lovely, modular internal web apps for researchers using
-Backbone, jQuery, HTML5/CSS3, and RESTful web services in ASP.NET and C#. I 
-also created charts and graphics for presentations, proposals, and reports, taking 
-raw data and ideas and attempting to turn them into something meaningful. I also 
-designed and managed vaxdesign.com.
+I designed and built lovely, modular internal web apps for researchers and bioengineers using Backbone, jQuery, HTML5/CSS3, and RESTful web services in ASP. NET and C#. These apps had a specific audience with well-defined needs, but these users still had technical abilities that required attention, interviews, and multiple interations before becoming something truly useful.
+
+I created charts and graphics for presentations, proposals, and reports, taking raw data and ideas and attempting to turn them into something meaningful. I also designed and managed vaxdesign.com.
 
 ENGLISH INSTRUCTOR
 ------------------
@@ -57,17 +57,18 @@ Designed and maintained the OSU Grad College website. Using Lotus Notes, develop
 
 THINGS WITH WHICH I'M COMFORTABLE
 -----------------------------------------------------------------------------
-* **Servers:** 		Rails, Apache, Linux
+* **UX**: 			Prototyping, wireframing, personas, user interviews
 * **Web:** 			Backbone, React, jQuery, D3, REST, HTML, CSS/SASS, Wireframing
 * **Languages:** 	Javascript, Ruby, C#, PHP, Regular Expressions
 * **Process**:      Git, Chef, RunDeck, Jenkins
-* **Apps:**         Adobe Illustrator CS3, Adobe Photoshop CS3 
+* **Apps:**         Adobe Illustrator CS3, Adobe Photoshop CS3
+* **Servers:** 		Rails, Apache, Linux
 
 DEGREES EARNED
 -----------------------------------------------------------------------------
-**Master's in Technical Writing** from Oklahoma State University, 1997-2000 
+**Master's in Technical Writing** from Oklahoma State University, 1997-2000
 
-**Bachelor's in English** from Oklahoma State University, 1992-1996 
+**Bachelor's in English** from Oklahoma State University, 1992-1996
 
 [tl]:http://toddlemoine.net
 [vaxdesign]:http://www.vaxdesign.com
@@ -81,7 +82,7 @@ DEGREES EARNED
     h2 { margin: 1.5em 0 0 0; color: maroon; font-weight: 200; }
     h2:last-child { font-style: normal; color: red; font-size: 100%; }
 	#visualdesignerandwebdeveloper { page-break-before: always; }
-</style>	
+</style>
 <style type="text/css" media="print">
     body { max-width: auto; padding: 1em; font-size: 90%; }
 	a { text-decoration: none; color: inherit; }
