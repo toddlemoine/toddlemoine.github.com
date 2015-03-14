@@ -8,6 +8,8 @@ I'm a front-end developer at Webtrends in Portland, Oregon. I get my hands dirty
 
 ![lemoinet.jpg](/assets/lemoinet.jpg)
 
+![japan door 01.jpg](/assets/japan door 01.jpg)
+
 
 {% highlight js %}
 
