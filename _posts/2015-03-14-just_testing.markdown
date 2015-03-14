@@ -6,7 +6,7 @@ published: true
 
 I'm a front-end developer at Webtrends in Portland, Oregon. I get my hands dirty in Javascript, Backbone, React, D3, and the DOM daily and I love it. I believe the most important attribute of an application is how empowered it makes users feel. Second most important is how well it executes on that promise. And I think code is craft.
 
-![lemoinet.jpg](/_posts/lemoinet.jpg)
+![lemoinet.jpg](/assets/lemoinet.jpg)
 
 
 {% highlight js %}
