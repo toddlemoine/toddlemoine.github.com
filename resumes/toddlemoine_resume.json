@@ -1,6 +1,6 @@
 {
   "name": "Todd Lemoine",
-  "about": "A web generalist grounded in user experience looking to build spectacular and satisfying front-end experiences for web apps",
+  "about": "A front-end developer empathetic to the user looking to build empowering, quality web applications.",
   "contact_methods": {
     "email": "todd.lemoine@gmail.com",
     "twitter": "@toddlemoine",
@@ -13,7 +13,7 @@
     "in": "Portland, Oregon",
     "since": "July 2012",
     "url": "http://webtrends.com",
-    "description": "I contribute to a team of UI developers, building client-side applications and interactive visualizations that help Webtrends' customers understand and act on their data. These applications are scalable to thousands of users in different locales. I helped create an internal Javascript framework for rapidly interating development using modular design patterns.\"nNotable: Lead front-end dev from prototype to shipping product of Webtrends'next-generation ad-hoc analysis tool, Explore."
+    "description": "I contribute to a team of UI developers, building client-side analytics and web optimization applications (including writing some supporting API middleware) and interactive visualizations that help Webtrends' customers understand and act on their data. These enterprise apps are scalable to thousands of users in different locales and are depended upon daily to make critical business decisions across various industries."
   },
   "past_experience": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "things_with_which_im_comfortable": {
-    "server": ["Rails", "Apache", "Linux"],
-    "web": ["Backbone", "React", "jQuery", "D3", "REST", "HTML", "CSS/SASS", "Wireframing"],
+    "server": ["node", "Rails", "Apache", "Linux"],
+    "web": ["React", "Backbone", "jQuery", "D3", "REST", "HTML", "CSS/SASS", "Wireframing"],
     "languages": ["JavaScript", "Ruby", "C#", "PHP", "Regular Expressions"],
     "apps": ["Adobe Illustrator CS3", "Adobe Photoshop CS3"],
-    "process": ["Git", "Chef", "RunDeck", "Jenkins"]
+    "process": ["Agile", "Git", "Chef", "RunDeck", "Jenkins"]
   },
   "things_with_which_im_familiar": {
     "server": ["IIS", "Windows", "Amazon EC2"],
