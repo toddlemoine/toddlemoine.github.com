@@ -1,32 +1,32 @@
 Title:          Résumé  of Todd Lemoine
 Author:         Todd Lemoine
-Date:           2015 August 12
+Date:           2016 May 24 
 
 # Todd Lemoine #
 [toddlemoine.net][tl] / [todd.lemoine@gmail.com][email] / [@toddlemoine][twitter] / 407.409.8802
 
 ---
 
-**A front-end developer empathetic to the user looking to build empowering, quality web applications.**
+**I’m a conscientious developer who prides himself on best practices, continued knowledge growth, and attention to people.**
 
----
+SENIOR SOFTWARE ENGINEER
+------------------------
+October 2015 to Present for [Jive Software][jive] (Portland, Oregon)
 
-SOFTWARE DEVELOPER
-----------------
-July 2012 to Present for [Webtrends, Inc][webtrends] (Portland, Oregon)
+I'm helping create the foundation for Jive's next-generation UI, using React and node while maintaining parity with the legacy product. We are approaching this as an internal "open source" project, so some focus is given to support of remote teams, dissemination of best practices, and tests. 
 
-I contribute to a team of UI developers, building client-side analytics and web optimization applications (including writing some supporting API middleware) and interactive visualizations that help Webtrends' customers understand and act on their data. These enterprise apps are scalable to thousands of users in different locales and are depended upon daily to make critical business decisions across various industries.
+SOFTWARE DEVELOPER IV
+---------------------
+July 2012 to October 2015 for [Webtrends, Inc][webtrends] (Portland, Oregon)
 
-Recently: Transitioned team to node + React + Flux + Immutable (away from Rails + Backbone). Enjoying mob programming.
-
-Notable: Lead front-end dev from prototype to shipping product of Webtrends' next-generation ad-hoc analysis tool, Explore; I helped create an internal Javascript framework for rapidly interating development using modular design patterns (good experience, but it was a "special snowflake" framework and ultimately didn't solve the problems it wanted to); some light mentoring of interns and team members.
+I built client-side analytics and web optimization applications and supporting APIs and middleware. These enterprise apps are scalable to thousands of users in different locales and are depended upon daily to make critical business decisions across various industries. Used mob programming to transition team to node + React + Flux + Immutable (away from Rails + Backbone). Helped create a "special snowflake" framework that ultimately didn't solve the problems it was intended to, but enabled some exceptional products. 
 
 MEDIA SPECIALIST
 ----------------
-April 2005 to Present for [Sanofi Pasteur VaxDesign Campus][vaxdesign] (Orlando, Florida)
+April 2005 to June 2012 for [Sanofi Pasteur VaxDesign Campus][vaxdesign] (Orlando, Florida)
 
-I designed and built lovely, modular internal web apps for researchers using
-Backbone, jQuery, HTML5/CSS3, and RESTful web services in ASP.NET and C#. I also created charts and graphics for presentations, proposals, and reports, taking raw data and ideas and attempting to turn them into something meaningful. I also designed and managed vaxdesign.com.
+I built modular internal web apps for researchers using Backbone, jQuery, HTML5/CSS3, and RESTful web services in ASP.NET and C#. I 
+also created charts and graphics for presentations, proposals, and reports.  Designed and managed vaxdesign.com.
 
 ENGLISH INSTRUCTOR
 ------------------
@@ -38,7 +38,7 @@ VISUAL DESIGNER and WEB DEVELOPER
 -------------------------------------------
 June 2001 to December 2002 for Critical Content, LLC (Oklahoma City, Oklahoma)
 
-Critical Content was an attempt to start a web design shop in Oklahoma City  dedicated to the idea that usability was a first-class consideration for any level of website. Together with a partner, I helped small businesses and organizations launch online presences, take baby steps into social media (although we didn't recognize it at the time), and build brand identity.
+Critical Content was an attempt to start a web design shop in Oklahoma City dedicated to the idea that usability was a first-class consideration for any level of website. Together with a partner, I helped small businesses and organizations launch online presences, take baby steps into social media, and build brand identity.
 
 INFORMATION ARCHITECT
 ---------------------
@@ -56,34 +56,41 @@ Designed and maintained the OSU Grad College website. Using Lotus Notes, develop
 
 THINGS WITH WHICH I'M COMFORTABLE
 -----------------------------------------------------------------------------
-* **Server:**       node, Rails, Apache, Linux
-* **Web:**          React, Backbone, jQuery, D3, REST, HTML, CSS/SASS, Wireframing
-* **Languages:**    Javascript, Ruby, C#, PHP, Regular Expressions
-* **Process**:      Agile, Git, Chef, RunDeck, Jenkins
-* **Apps:**         Adobe Illustrator CS3, Adobe Photoshop CS3
+* **Web:**		React, Backbone, jQuery, D3, REST, HTML, CSS/SASS, Wireframing
+* **Languages:** 	Javascript, Ruby, C#, PHP, Regular Expressions
+* **Servers:** 		Node (Express), Rails, Apache, Linux
+* **Process:**      Git, Chef, RunDeck, Jenkins
+* **Design:**         Adobe Illustrator CS3, Adobe Photoshop CS3 
 
 DEGREES EARNED
 -----------------------------------------------------------------------------
-**Master's in Technical Writing** from Oklahoma State University, 1997-2000
-
-**Bachelor's in English** from Oklahoma State University, 1992-1996
+* **Master's in Technical Writing** from Oklahoma State University, 1997-2000
+* **Bachelor's in English** from Oklahoma State University, 1992-1996
 
 [tl]:http://toddlemoine.net
 [vaxdesign]:http://www.vaxdesign.com
 [webtrends]:http://webtrends.com
+[jive]:http://www.jivesoftware.com
 [twitter]:https://twitter.com/toddlemoine
 [email]:mailto:todd.lemoine@gmail.com
 
 <style type="text/css" media="all">
-    body { padding: 3em; font: normal 100% "Helvetica Neue", Arial, "sans serif"; line-height: 160%; color: #222; margin: 0 auto; max-width: 750px; }
-    h1 { font-size: 3em;  }
-    h2 { margin: 1.5em 0 0 0; color: maroon; font-weight: 200; }
+body {
+    padding: 3em; 
+    font: normal 11pt/1.2em "Helvetica Neue", Arial, "sans serif"; 
+    line-height: 160%; color: #222; margin: 0 auto; max-width: 750px;
+}
+h1 { font-size: 2em;  }
+    h2 { margin: 1.5em 0 0 0; color: maroon; font-weight: 500; font-size: 1.15em; }
     h2:last-child { font-style: normal; color: red; font-size: 100%; }
-    #visualdesignerandwebdeveloper { page-break-before: always; }
-</style>
+h2+p {
+    margin-top: 0.25em;
+    font-style: italic;
+}
+#visualdesignerandwebdeveloper { page-break-before: always; }
+</style>	
 <style type="text/css" media="print">
     body { max-width: auto; padding: 1em; font-size: 90%; }
-    a { text-decoration: none; color: inherit; }
+	a { text-decoration: none; color: inherit; }
     h1 { font-size: 2em; margin-bottom: .5em; }
-    h2 { color: black; font-weight: bold; }
 </style>
