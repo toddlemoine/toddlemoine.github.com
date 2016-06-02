@@ -19,6 +19,8 @@ and node while maintaining parity with the legacy product. We are approaching
 this as an internal "open source" project, so some focus is given to support of 
 remote teams, dissemination of best practices, and tests. 
 
+---
+
 SOFTWARE DEVELOPER IV
 July 2012 to Oct 2015
 Webtrends, Inc. in Portland, OR
