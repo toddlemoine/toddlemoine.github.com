@@ -1,0 +1,22 @@
+{
+  "name": "toddlemoine.github.com",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddlemoine/toddlemoine.github.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toddlemoine/toddlemoine.github.com/issues"
+  },
+  "homepage": "https://github.com/toddlemoine/toddlemoine.github.com#readme",
+  "dependencies": {
+    "markdown-to-html": "0.0.13"
+  }
+}
