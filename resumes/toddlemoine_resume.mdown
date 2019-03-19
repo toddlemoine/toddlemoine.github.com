@@ -1,32 +1,43 @@
 Title:          Résumé  of Todd Lemoine
 Author:         Todd Lemoine
-Date:           2016 May 24 
+Date:           2019 Mar 20 
 
 # Todd Lemoine #
-[toddlemoine.net][tl] / [todd.lemoine@gmail.com][email] / [@toddlemoine][twitter] / 407.409.8802
+[toddlemoine.net][tl] / [todd.lemoine@gmail.com][email] / [github.com/toddlemoine][github] / [@toddlemoine][twitter]
 
 ---
 
-**I’m a conscientious developer who prides himself on best practices, continued knowledge growth, and attention to people.**
+**I’m a conscientious developer who prides himself on best practices, keeping an open mind, and attention to people. **
+
+CREATOR, SLIDEWRITER.IO
+------------------------
+April 2018 to Present
+
+Created web app for creating and playing slidedecks using Markdown. Built with React, MobX, and IndexedDB on the client, AWS Cognito, DynamoDB GraphQL, Lambda, and S3 on the backend. Currently redeveloping with Elixir/Phoenix.
 
 SENIOR SOFTWARE ENGINEER
 ------------------------
-October 2015 to Present for [Jive Software][jive] (Portland, Oregon)
+September 2016 to Present for [Jama Software][jama] (Portland, Oregon)
 
-I'm helping create the foundation for Jive's next-generation UI, using React and node while maintaining parity with the legacy product. We are approaching this as an internal "open source" project, so some focus is given to support of remote teams, dissemination of best practices, and tests. 
+I'm shepherding the UI for Jama's enterprise-grade core requirements management product, keeping a peaceful co-existence of legacy ExtJS and React/Redux code, with occasional greenfield React work. Raised awareness of accessibility with some success integrating it into the larger Engineering culture and practices. Mentoring junior team members.
+
+SENIOR SOFTWARE ENGINEER
+------------------------
+October 2015 to September 2016 for [Jive Software][jive] (Portland, Oregon)
+
+I helped create the foundation for Jive's next-generation UI, using React and node to serve parts of the UI as a microservice while maintaining parity with and working alongside the legacy product.  
 
 SOFTWARE DEVELOPER IV
 ---------------------
 July 2012 to October 2015 for [Webtrends, Inc][webtrends] (Portland, Oregon)
 
-I built client-side analytics and web optimization applications and supporting APIs and middleware. These enterprise apps are scalable to thousands of users in different locales and are depended upon daily to make critical business decisions across various industries. Used mob programming to transition team to node + React + Flux + Immutable (away from Rails + Backbone). Helped create a "special snowflake" framework that ultimately didn't solve the problems it was intended to, but enabled some exceptional products. 
+I built client-side analytics and web optimization applications and supporting Rails APIs and middleware. These enterprise apps are scalable to thousands of users in different locales and are depended upon daily to make critical business decisions across various industries. Used mob programming to transition team to node + React + Flux + Immutable (away from Rails + Backbone). Helped create a "special snowflake" framework that ultimately didn't solve the problems it was intended to, but enabled some exceptional products. 
 
 MEDIA SPECIALIST
 ----------------
 April 2005 to June 2012 for [Sanofi Pasteur VaxDesign Campus][vaxdesign] (Orlando, Florida)
 
-I built modular internal web apps for researchers using Backbone, jQuery, HTML5/CSS3, and RESTful web services in ASP.NET and C#. I 
-also created charts and graphics for presentations, proposals, and reports.  Designed and managed vaxdesign.com.
+I built modular internal web apps for researchers using Backbone, jQuery, HTML5/CSS3, and RESTful web services in ASP.NET and C#. I also created charts and graphics for presentations, proposals, and reports.  Designed and managed vaxdesign.com using Drupal and custom modules.
 
 ENGLISH INSTRUCTOR
 ------------------
@@ -34,60 +45,49 @@ September 2003 to March 2005 for NOVA (Tokyo, Japan)
 
 I taught several 45-minute English sessions a day to all walks of Tokyoites, from 5 year-olds to Hiroshima survivors, each with different levels of fluency from almost none to nearly native.
 
-VISUAL DESIGNER and WEB DEVELOPER
--------------------------------------------
-June 2001 to December 2002 for Critical Content, LLC (Oklahoma City, Oklahoma)
-
-Critical Content was an attempt to start a web design shop in Oklahoma City dedicated to the idea that usability was a first-class consideration for any level of website. Together with a partner, I helped small businesses and organizations launch online presences, take baby steps into social media, and build brand identity.
-
-INFORMATION ARCHITECT
----------------------
-May 2000 to June 2001 for XOR Inc (Tulsa, Oklahoma)
-
-I helped clients (such as FTD, TV Guide, and Phillips 66) determine their specific audiences for websites and those audiences' needs from the clients' sites, then design an information outline, structure, or flow for the sites.
-
-WEBMASTER
----------
-1997-2000 for Oklahoma State University Graduate College (Stillwater, Oklahoma)
-
-Designed and maintained the OSU Grad College website. Using Lotus Notes, developed and implemented one of the few fully online graduate application forms in the United States.
+PREVIOUSLY
+----------
+* Web Designer/Developer and Founder, Critical Content, LLC. (June 2001 – Dec 2002) 
+* Information Architect, XOR, Inc. (May 2000 - June 2001)
 
 ---
 
-THINGS WITH WHICH I'M COMFORTABLE
+TECHNOLOGIES
 -----------------------------------------------------------------------------
-* **Web:**		React, Backbone, jQuery, D3, REST, HTML, CSS/SASS, Wireframing
-* **Languages:** 	Javascript, Ruby, C#, PHP, Regular Expressions
-* **Servers:** 		Node (Express), Rails, Apache, Linux
-* **Process:**      Git, Chef, RunDeck, Jenkins
-* **Design:**         Adobe Illustrator CS3, Adobe Photoshop CS3 
+* **Libraries:**	React, Redux, MobX, RxJS, Backbone, D3, jQuery
+* **Languages:** 	Javascript ES5/6, Ruby, PHP 
+* **Serverside:** 	AWS (EB, S3, Cloudfront, DynamoDB), Node (Express), Rails, Apache
 
 DEGREES EARNED
 -----------------------------------------------------------------------------
-* **Master's in Technical Writing** from Oklahoma State University, 1997-2000
-* **Bachelor's in English** from Oklahoma State University, 1992-1996
+* **Master's in Technical Writing** from Oklahoma State University
+* **Bachelor's in English** from Oklahoma State University
 
 [tl]:http://toddlemoine.net
 [vaxdesign]:http://www.vaxdesign.com
 [webtrends]:http://webtrends.com
 [jive]:http://www.jivesoftware.com
+[jama]:http://www.jamasoftare.com
 [twitter]:https://twitter.com/toddlemoine
 [email]:mailto:todd.lemoine@gmail.com
+[github]:https://github.com/toddlemoine
 
 <style type="text/css" media="all">
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i');
 body {
     padding: 3em; 
-    font: normal 11pt/1.2em "Helvetica Neue", Arial, "sans serif"; 
+    font: normal 11pt/1.2em "Noto Serif", "sans serif"; 
     line-height: 160%; color: #222; margin: 0 auto; max-width: 750px;
 }
-h1 { font-size: 2em;  }
-    h2 { margin: 1.5em 0 0 0; color: maroon; font-weight: 500; font-size: 1.15em; }
-    h2:last-child { font-style: normal; color: red; font-size: 100%; }
+hr { border: 1px dotted black; border-bottom: 0; }
+p { margin: 0 auto 1em auto; }
+h1 { font-size: 2em; font-weight: normal; margin-bottom: .25em; }
+h2 { margin: 1.5em 0 0 0; color: #083b66;; font-weight: 700; font-size: 1.15em; }
+h2:last-child { font-style: normal; color: red; font-size: 100%; }
 h2+p {
     margin-top: 0.25em;
     font-style: italic;
 }
-#visualdesignerandwebdeveloper { page-break-before: always; }
 </style>	
 <style type="text/css" media="print">
     body { max-width: auto; padding: 1em; font-size: 90%; }
