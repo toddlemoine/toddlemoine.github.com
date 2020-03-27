@@ -1,0 +1,95 @@
+
+Todd Lemoine
+Full-stack developer with a frontend focus and pragmatic, test-driven approach.
+971.706.3436 / todd.lemoine@gmail.com / github.com/toddlemoine
+
+SKILLS
+------
+* Javascript ES5/6, Typescript
+* React, Redux, ExtJS, MobX, CKEditor, jQuery, Backbone, D3
+* Enzyme, Karma, Jasmine, Mocha
+* HTML5, CSS/SCSS, Bootstrap
+* Webpack, Rollup, Parcel, Browserify, Gulp
+* REST, GraphQL, websockets
+* Ruby, Python, Java, Elixir
+* Node.js, Flask, Rails, Phoenix, Nginx, Docker
+* AWS: ElasticBeanstalk, S3, Cloudfront, DynamoDB, Amplify
+* Postgresql, MySQL
+
+
+SENIOR SOFTWARE ENGINEER (LEAD), Jama Software
+----------------------------------------------
+September 2016 - March 2020
+
+I balanced technical and tactical responsibilities to deliver new React UI 
+features and refactor legacy code for Jama’s suite of enterprise requirements 
+and risk management apps. 
+
+* Advocated for inclusive, accessibility-focused development with success 
+  integrating WCAG AA-compliance into the larger Engineering culture;
+* Delivered on-time, the first two significant epics of user-facing 
+  improvements to a long-ignored area of the app in years;
+* Built Risk Management Center, a spreadsheet-like app for helping organizations 
+  in regulated industries conduct risk analyses, going from no code and 
+  wireframes to a full-featured product in less than 12 months;
+* Helped define direction and provided oversight of an offshore team’s project 
+  to replace a fragile 3rd-party library with an in-house solution;
+* Worked with the product owner, scrummaster, and external teams to keep a cross-
+  functional team’s projects on-track and report up any changes or challenges;
+* Helped Product and UX to define, groom, and write acceptance criteria for 
+  stories;
+* Mentored junior team members.
+
+
+SENIOR SOFTWARE ENGINEER, Jive Software
+---------------------------------------
+October 2015 - September 2016
+
+I helped create the foundation for Jive’s next-generation UI, using React and 
+Node.js to serve parts of the UI as a microservice while maintaining parity with 
+and working alongside the legacy product.
+
+
+SOFTWARE DEVELOPER IV, Webtrends
+--------------------------------
+July 2012 - October 2015
+
+I built streaming client-side analytics and web A/B testing applications, and 
+backend Rails APIs and middleware. 
+
+* Transitioned apps to Node.js + React + Flux + Immutable (away from Rails + 
+  Backbone). 
+* Helped create a “special snowflake” framework that ultimately didn’t solve 
+  the problems it was intended to, but enabled some exceptional products.
+
+
+MEDIA SPECIALIST, Sanofi Pasteur
+--------------------------------
+April 2005 - June 2012
+
+I built modular internal web apps for researchers using Backbone, jQuery, 
+HTML5/CSS3, and RESTful web services in ASP.NET and C#. I also created charts 
+and graphics for presentations, proposals, and reports. Designed and managed 
+vaxdesign.com using Drupal and custom modules.
+
+CURRENTLY
+---------
+* Planning version 3 of slidewriter.io, a web app for creating slidedecks using 
+  Markdown and built with React, MobX, and IndexedDB on the client, 
+  experimenting with AWS Cognito, DynamoDB GraphQL, Lambda, and S3 
+  on the backend.
+* Using Python, Flask, and Postgres to create a web app for creating math and 
+  language practice sheets for teachers and parents.
+
+
+PREVIOUSLY
+----------
+* English Instructor, NOVA, Tokyo, Japan (Sept 2003 – Mar 2005)
+* Web Designer/Developer and Founder, Critical Content, LLC. (June 2001 – Dec 2002) 
+* Information Architect, XOR, Inc. (May 2000 - June 2001)
+
+
+DEGREES EARNED
+--------------
+* Master's in Technical Writing - Oklahoma State University
+* Bachelor's in English - Oklahoma State University
