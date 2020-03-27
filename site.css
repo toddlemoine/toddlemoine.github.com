@@ -3,12 +3,7 @@ body {
   color: #414141;
   font-weight:300;
   margin: 0;
-  border-left: 20px solid orangered;
-  padding: 2em;
-  max-width: 70%;
-  min-width: 400px;
 }
-
 h1, h2, h3, h4, h5, h4 {
   color:#222;
   margin:0 0 20px;
@@ -165,6 +160,13 @@ footer {
   pre, code {
     word-wrap:normal;
   }
+}
+
+.main {
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 100px;
+  max-width: 800px;
 }
 
 @media print, screen and (max-width: 480px) {
