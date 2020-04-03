@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tables-generator/static/css/main.08f98a0f.chunk.css",
+    "main.js": "/tables-generator/static/js/main.02af7025.chunk.js",
+    "main.js.map": "/tables-generator/static/js/main.02af7025.chunk.js.map",
+    "runtime-main.js": "/tables-generator/static/js/runtime-main.16a996e7.js",
+    "runtime-main.js.map": "/tables-generator/static/js/runtime-main.16a996e7.js.map",
+    "static/js/2.071548b7.chunk.js": "/tables-generator/static/js/2.071548b7.chunk.js",
+    "static/js/2.071548b7.chunk.js.map": "/tables-generator/static/js/2.071548b7.chunk.js.map",
+    "index.html": "/tables-generator/index.html",
+    "precache-manifest.8f6ade2b8080261352e036c09be8a2ca.js": "/tables-generator/precache-manifest.8f6ade2b8080261352e036c09be8a2ca.js",
+    "service-worker.js": "/tables-generator/service-worker.js",
+    "static/css/main.08f98a0f.chunk.css.map": "/tables-generator/static/css/main.08f98a0f.chunk.css.map",
+    "static/js/2.071548b7.chunk.js.LICENSE.txt": "/tables-generator/static/js/2.071548b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a996e7.js",
+    "static/js/2.071548b7.chunk.js",
+    "static/css/main.08f98a0f.chunk.css",
+    "static/js/main.02af7025.chunk.js"
+  ]
+}
