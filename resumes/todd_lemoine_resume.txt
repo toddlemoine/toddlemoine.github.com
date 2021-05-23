@@ -1,20 +1,33 @@
 
 Todd Lemoine
-Full-stack developer with a frontend focus and pragmatic, test-driven approach.
+Frontend and full=stack generalist with a pragmatic, test-driven approach.
 971.706.3436 / todd.lemoine@gmail.com / github.com/toddlemoine
 
 SKILLS
 ------
 * Javascript ES5/6, Typescript
-* React, Redux, ExtJS, MobX, CKEditor, jQuery, Backbone, D3
-* Enzyme, Karma, Jasmine, Mocha
-* HTML5, CSS/SCSS, Bootstrap
+* React, Redux, MobX, ExtJS, CKEditor, jQuery, Backbone, D3
+* Enzyme, Karma, Jest, Jasmine, Mocha
+* HTML5, CSS/SCSS, CSS-in-JS, Bootstrap
 * Webpack, Rollup, Parcel, Browserify, Gulp
 * REST, GraphQL, websockets
-* Ruby, Python, Java, Elixir
+* Ruby, Python, Elixir
 * Node.js, Flask, Rails, Phoenix, Nginx, Docker
 * AWS: ElasticBeanstalk, S3, Cloudfront, DynamoDB, Amplify
 * Postgresql, MySQL
+
+
+SENIOR SOFTWARE ENGINEER, Streem (a Frontdoor, Inc. company)
+------------------------------------------------------------
+April 2020 - Current
+
+* Helped guide team through lengthy rewrite of flagship web app, handling feature
+  creep and fixed deadlines; 
+* Introduced team working agreement to sprint processes to provide some
+  structure and guardrails for deliverable work;
+* Worked to make accessibility a first-class priority during development and 
+  integral to the company culture;
+* Worked with Product and UX to deliver mobile version of legacy app on time. 
 
 
 SENIOR SOFTWARE ENGINEER (LEAD), Jama Software
@@ -74,20 +87,15 @@ vaxdesign.com using Drupal and custom modules.
 
 CURRENTLY
 ---------
+* Developing Elixir/Phoenix web app for managing recurring subscriptions.
 * Planning version 3 of slidewriter.io, a web app for creating slidedecks using 
-  Markdown and built with React, MobX, and IndexedDB on the client, 
-  experimenting with AWS Cognito, DynamoDB GraphQL, Lambda, and S3 
-  on the backend.
-* Using Python, Flask, and Postgres to create a web app for creating math and 
-  language practice sheets for teachers and parents.
-
+  Markdown.
 
 PREVIOUSLY
 ----------
 * English Instructor, NOVA, Tokyo, Japan (Sept 2003 – Mar 2005)
 * Web Designer/Developer and Founder, Critical Content, LLC. (June 2001 – Dec 2002) 
 * Information Architect, XOR, Inc. (May 2000 - June 2001)
-
 
 DEGREES EARNED
 --------------
